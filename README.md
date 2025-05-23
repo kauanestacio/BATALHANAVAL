@@ -31,7 +31,7 @@ Exibição do Tabuleiro:
 
 O tabuleiro é impresso no console, onde:
 
-~ representa água.
+§ representa água.
 
 O representa uma parte do navio.
 
